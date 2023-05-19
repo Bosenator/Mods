@@ -1,0 +1,1 @@
+In order to avoid duplicates and keep the issue tracker organized, please search the issue tracker first.

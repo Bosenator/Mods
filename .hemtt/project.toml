@@ -1,0 +1,32 @@
+name = "Bose Mods"
+prefix = "bose_mods"
+author = "Bosenator"
+
+[files]
+include = [
+    "mod.cpp",
+    "LICENSE",
+    "*.dll",
+    "*.so",
+    "README.md",
+    "AUTHORS.txt",
+    "logo_bm_ca.paa",
+    "logo_bm_small_ca.paa"
+]
+
+[version]
+git_hash = 0
+
+[asc]
+enabled = true
+exclude = [
+    "/initsettings.sqf",
+    "/initkeybinds.sqf",
+    "/xeh_prep.sqf",
+]
+
+[hemtt.config]
+preset = "Hemtt"
+
+[hemtt.release]
+folder = "bose_mods"
