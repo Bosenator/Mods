@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="BOSE_MODS">
+    <Package name="Main">
+        <Key ID="STR_BOSE_MODS_Main_Author">
+            <English>Bose Mod Team</English>
+        </Key>
+        <Key ID="STR_BOSE_MODS_Main_URL">
+            <English>https://github.com/Bosenator/Mods</English>
+        </Key>
+        <Key ID="STR_OSE_MODS_Main_Attributes">
+            <English>BOSE_MODS Attributes</English>
+        </Key>
+    </Package>
+</Project>
