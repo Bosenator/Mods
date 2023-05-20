@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="BOSE_MODS">
+	<Package name="Box_Transfer">
+		<Key ID="STR_BOSE_MODS_Box_Transfer_DisplayName">
+			<English>Box Transfer</English>
+		</Key>
+		<Key ID="STR_BOSE_MODS_Box_Transfer_timePerBackpack">
+			<English>Time taken to transfer per backpack</English>
+		</Key>
+		<Key ID="STR_BOSE_MODS_Box_Transfer_timePerWeapon">
+			<English>Time taken to transfer per weapon</English>
+		</Key>
+		<Key ID="STR_BOSE_MODS_Box_Transfer_timePerItem">
+			<English>Time taken to transfer per item</English>
+		</Key>
+		<Key ID="STR_BOSE_MODS_Box_Transfer_timePerOther">
+			<English>Time taken to transfer per everything else</English>
+		</Key>
+	</Package>
+</Project>
